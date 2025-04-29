@@ -1,0 +1,84 @@
+#container{
+    width:95%;
+    height:800px;
+    margin:auto;
+    background-color: gray;
+}
+#header{
+    width:100%;
+    height:200px;
+    background-color:blue;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+}
+#logo{
+    width:20%;
+    height:70px;
+    background-color:black;
+    padding-top: 2%;
+}
+#menü{
+    width:50%;
+    height:120px;
+    background-color: black;
+
+}
+#sağDiv{
+    width:20%;
+    height:100px;
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+}
+#sol{
+    width:30%;
+    height:70px;
+    background-color:white;
+}
+#sağ{
+    width:30%;
+    height:70px;
+    background-color: white;
+}
+#içerik{
+    width:100%;
+    height:600px;
+    background-color: gray;
+}
+#footer{
+    width:100%;
+    height:170px;
+    background-color: gray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+    margin: auto;
+}
+#solDiv{
+    width:40%;
+    height:150px;
+    background-color: black;
+}
+#sağaltDiv{
+    width:50%;
+    height:150px;
+    background-color: black;
+}
+h1{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    color:white;
+    margin: auto;
+    margin-top: auto;
+}
+h2{
+    color:white;
+}
